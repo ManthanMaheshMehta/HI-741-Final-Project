@@ -1,0 +1,27 @@
+--- Summary Statistics ---
+Total unique patients: 100
+Total number of visits: 195
+Average age: 51.08
+
+--- Gender Distribution ---
+Gender
+Male          70
+Female        68
+Non-binary    57
+
+--- Race Distribution ---
+Race
+Pacific Islanders    41
+Black                35
+White                34
+Native Americans     32
+Asian                28
+Unknown              25
+
+--- Insurance Distribution ---
+Insurance
+Medicare         43
+Blueshield       43
+Not Available    41
+Unknown          40
+Medicaid         28
