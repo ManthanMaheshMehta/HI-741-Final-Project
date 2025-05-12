@@ -35,11 +35,11 @@ python main.py
 A login window will appear. Use the credentials from ./data/Credentials.csv to log in and explore role-based features.
 
  Project Structure:
- - `main.py`: Entry point of the program
-- `README.md`: Project documentation
-- `requirements.txt`: Python dependencies
-- `UML_Diagram.png`: Class design structure
-- `data/`
+ - main.py: Entry point of the program
+- README.md: Project documentation
+- requirements.txt: Python dependencies
+- UML_Diagram.png: Class design structure
+- data/
   - `Credentials.csv`
   - `Patient_data.csv`
   - `Notes.csv`
