@@ -7,4 +7,18 @@ The system simulates real-world hospital workflows such as:
 - Counting visits on specific dates
 - Generating descriptive summaries from patient data
 
+##  Installation Instructions
 
+###  Prerequisites
+
+- Python 3.8 or higher  
+- Git (optional for cloning)
+- Recommended: Anaconda or a virtual environment manager
+
+### Step-by-Step Setup
+
+1. **Clone the GitHub repository:**
+
+   ```bash
+   git clone https://github.com/ManthanMaheshMehta/HI-741-Final-Project
+   cd HI-741-Final-Project
