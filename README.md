@@ -1,2 +1,2 @@
-# HI-741-Final-Project
-Final Project - Clinical Data Warehouse UI for HI 741
+#  Clinical Data Warehouse - HI 741 Final Project
+
