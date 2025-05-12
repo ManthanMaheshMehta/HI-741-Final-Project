@@ -62,10 +62,10 @@ Other modules used (tkinter, os, datetime, random) are part of the Python standa
 User Roles & Access:
  Role            Access Level                        
 
-| admin         | Count visits only                    |
-| nurse         | Full patient access and modification |
-| clinician     | Full patient access and modification |
-| management    | Generate key statistics only         |
+ admin         - Count visits only,                    
+ nurse         -Full patient access and modification 
+ clinician     - Full patient access and modification 
+ management    - Generate key statistics only         
 
 The UI changes based on user role after login. Unauthorized actions are disabled.
 
