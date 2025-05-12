@@ -18,6 +18,7 @@ The system simulates real-world hospital workflows such as:
 ### Step-by-Step Setup
 
 1. Clone the GitHub repository:
+   ```bash
 
    git clone https://github.com/ManthanMaheshMehta/HI-741-Final-Project
    
