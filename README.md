@@ -19,7 +19,7 @@ The system simulates real-world hospital workflows such as:
 
 1. Clone the GitHub repository:
 
-   ```bash
+   bash
    git clone https://github.com/ManthanMaheshMehta/HI-741-Final-Project
    cd HI-741-Final-Project
 2.Install required packages:
